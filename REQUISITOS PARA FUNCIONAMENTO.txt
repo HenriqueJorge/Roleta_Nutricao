@@ -1,0 +1,10 @@
+Para execução do jogo sera nessesario a instalação do python(linguagem de programação)
+Durante sua instalação deve-se marcar todas as opiçoes iniciais da tela 
+Apois sua instalação deve se colocado no pront de comando ou cmd o seguinte comando
+(pip install pygame)
+Com a biblioteca instalada possibilita a iniciação do programa
+
+
+Requisitos :
+Python
+Biblioteca pygame
